@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "infall",
+    "slug": "infall",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
